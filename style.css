@@ -1,0 +1,9 @@
+body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; }
+#quiz-container { margin-bottom: 20px; }
+.question { margin-bottom: 10px; }
+.options label { display: block; margin-bottom: 5px; }
+#results { margin-top: 20px; }
+.correct { color: green; }
+.incorrect { color: red; }
+canvas { margin-top: 30px; max-width: 700px;}
+button { margin-top: 15px; padding: 10px 20px; font-size: 1.1em; }
